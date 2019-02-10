@@ -1,7 +1,6 @@
 // Spotify API
 const clientID =      '879e105c559840308884383d17aea72b';
-//const redirectURI =   'http://localhost:3000/';
-const redirectURI =   'http://solursparken.com/jammming';
+const redirectURI =   'http://localhost:3000/';
 // Spotify URL
 const spotifyURL = 'https://api.spotify.com/v1/';
 const spotifyAccount = 'https://accounts.spotify.com/';
